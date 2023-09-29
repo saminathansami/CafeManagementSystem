@@ -1,0 +1,12 @@
+.mat-toolbar{
+    margin: auto;
+    width: auto;
+    margin-bottom: auto;
+}
+
+mat-form-fiels{
+    padding: auto;
+}
+mat-hint{
+    color:red;
+}

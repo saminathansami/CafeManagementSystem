@@ -1,0 +1,17 @@
+
+mat-form-field{
+    padding:5px;
+}
+
+.float-right{
+    float:right;
+
+}
+mat-card{
+    padding:30px !important;
+
+}
+
+table{
+    width:100%;
+}
